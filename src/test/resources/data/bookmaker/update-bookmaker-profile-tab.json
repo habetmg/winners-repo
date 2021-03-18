@@ -1,0 +1,35 @@
+{
+  "establishedAt": "2020-02-01T08:39:12.974Z",
+  "owner": "Company-Name-Test-edit",
+  "termsAndConditions": "https://www.vivarobet.am/",
+  "url": "https://www.vivarobet.am/",
+  "reviews": {
+    "overall": {}
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "5ece82f0053031001047ca5c"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+        "5ece82f0053031001047ca60"
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "5ebd612d224ed80010a0faf2"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "5ebd6097224ed80010a0fae1"
+    ]
+  }
+}

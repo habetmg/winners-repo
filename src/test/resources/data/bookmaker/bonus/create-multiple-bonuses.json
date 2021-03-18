@@ -1,0 +1,51 @@
+{
+  "reviews": {
+    "bonus": {
+      "bonuses": [
+        {
+          "url": "https://betway.com/bwp/sportsoffercan/en-ca/",
+          "best": true,
+          "name": "Bonus-name-1",
+          "value": "10000",
+          "summary": "Bonus1-Summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "5ece82f0053031001047ca5e",
+              "5ece82f0053031001047ca5f"
+            ]
+          },
+          "description": "<p>Description</p>"
+        },
+        {
+          "url": "https://winners.bet/esports/home/matches",
+          "name": "Bonus-name-2",
+          "value": "20000",
+          "summary": "Bonus-2-summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "5ece82f0053031001047ca5c"
+            ]
+          },
+          "description": "<p>Bonus-2-Description</p>"
+        },
+        {
+          "url": "https://affiliates.priotix.xyz/",
+          "name": "Bonus-Name-3",
+          "value": "30000",
+          "summary": "Bonus-Name-3-summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "5ece82f0053031001047ca64",
+              "5ece82f0053031001047ca65",
+              "5ece82f0053031001047ca63"
+            ]
+          },
+          "description": "<p>Bonus-Name-3-Description-test</p>"
+        }
+      ]
+    }
+  }
+}

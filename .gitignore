@@ -1,0 +1,16 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+all.log
+log/
+target/
+.m2
+
+# Configuration
+.env
+
+#Selenoid
+selenoid

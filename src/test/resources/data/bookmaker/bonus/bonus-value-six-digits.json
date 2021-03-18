@@ -1,0 +1,24 @@
+{
+  "reviews": {
+    "bonus": {
+      "rating": 3,
+      "intro": "<p>Introduction-test</p>",
+      "summary": "<p>Summary-test</p>",
+      "bonuses": [
+        {
+          "name": "bonus-name",
+          "value": "500080",
+          "summary": "bonus-summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "5ece82f0053031001047ca5d",
+              "5ece82f0053031001047ca5c"
+            ]
+          },
+          "description": "<p>description-test</p>"
+        }
+      ]
+    }
+  }
+}

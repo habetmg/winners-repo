@@ -1,0 +1,38 @@
+{
+  "owner": "company-name-test",
+  "establishedAt": "2020-02-25T08:58:36.506Z",
+  "termsAndConditions": "https://github.com/",
+  "url": "https://github.com/",
+  "reviews": {
+    "overall": {
+      "summary": "<p>Summary</p>",
+      "overview": "<p>Overview</p>"
+    }
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "5ece82f0053031001047ca5e",
+        "5ece82f0053031001047ca5c"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "5ebd612d224ed80010a0faf1"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "5ebd6097224ed80010a0fae3"
+    ]
+  }
+}

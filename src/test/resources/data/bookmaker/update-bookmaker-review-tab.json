@@ -1,0 +1,28 @@
+{
+  "reviews": {
+    "products": {
+      "rating": 7,
+      "intro": "<p>Sports-Games-Covered-Introduction</p>",
+      "summary": "<p>Sports-Games-Covered-Summary</p>",
+      "esports": {
+        "tagGroup": "esports",
+        "tags": [
+          "5ebd631a224ed80010a0faf9"
+        ]
+      },
+      "sports": {
+        "tagGroup": "sports",
+        "tags": [
+          "5ebd6382224ed80010a0fb07",
+          "5ebd6382224ed80010a0fb06"
+        ]
+      },
+      "other": {
+        "tagGroup": "other-products",
+        "tags": [
+          "5ebd603b224ed80010a0fadf"
+        ]
+      }
+    }
+  }
+}
